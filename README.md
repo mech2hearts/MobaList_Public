@@ -8,7 +8,7 @@ Web application storing users' mobile game information (friend/transfer codes). 
 </pre>
 <pre>
 <b>Front-End Framework:</b> NodeJS (Express)
-&nbsp <b>Dependencies:</b> express, jsonwebtokens
+&nbsp <b>Dependencies:</b> express, express-sessions, jsonwebtokens, bcrypt
 </pre>
 <h3>Project Features:</h3>
 User authentication + sessions utilized with JSON Web Tokens, Local Storage, mLab (MongoDB)
