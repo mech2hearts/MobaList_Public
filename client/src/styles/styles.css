@@ -1,0 +1,9 @@
+.iconImg{
+  height: 80px;
+  width: 80px;
+  opacity: 4;
+}
+
+#list li{
+  opacity: 0
+}
