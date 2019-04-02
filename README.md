@@ -7,7 +7,7 @@ Web application storing users' mobile game information (friend/transfer codes). 
 &nbsp <b>Dependencies:</b> react, react-dom, react-router-dom, axios, react-scripts, react-select-plus, react-tabs
 </pre>
 <pre>
-<b>Front-End Framework:</b> NodeJS (Express)
+<b>Back-End Framework:</b> NodeJS (Express)
 &nbsp <b>Dependencies:</b> express, express-sessions, jsonwebtokens, bcrypt
 </pre>
 <h3>Project Features:</h3>
